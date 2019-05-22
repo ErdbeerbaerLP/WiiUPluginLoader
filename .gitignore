@@ -10,3 +10,4 @@ release/*
 *.nam
 *.til
 *.layout
+/.project

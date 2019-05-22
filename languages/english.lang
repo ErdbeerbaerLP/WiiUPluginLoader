@@ -49,6 +49,6 @@ msgstr ""
 msgid "No configurable running plugins found."
 msgstr ""
 
-#: src/myutils/ConfigUtils.cpp:243
+#: src/myutils/ConfigUtils.cpp:255
 msgid "B = plugin overview, HOME  = back to running application."
 msgstr ""
